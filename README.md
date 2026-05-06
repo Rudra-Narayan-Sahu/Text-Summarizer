@@ -1,4 +1,4 @@
-# <h1>Text Summarizer</h1> 
+# Text Summarizer App
 
 A FastAPI-based web application for automatic text summarization using the T5 (Text-to-Text Transfer Transformer) model. This project provides both a REST API and an interactive web interface for summarizing long texts into concise summaries.
 
